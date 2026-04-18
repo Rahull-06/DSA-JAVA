@@ -31,14 +31,14 @@ Every folder contains clean, well-commented solutions written for **future revis
 |---|-------|--------|--------|
 | 01 | Maths | ✅ Completed | [`01-Maths`](./01-Maths) |
 | 02 | Patterns | ✅ Completed | [`02-Patterns`](./02-Patterns) |
-| 03 | Arrays | 🔄 Completed | [`03-Arrays`](./03-Arrays) |
-| 04 | Strings | 🔄 Completed | [`04-Strings`](./04-Strings) |
-| 05 | Sorting | 🔄 Completed | [`05-Sorting`](./05-Sorting) |
-| 06 | Recursion | ⏳ Completed | [`06-Recursion`](./06-Recursion) |
-| 07 | Linked List | ⏳ Completed | [`07-LinkedList`](./07-LinkedList) |
-| 08 | Bit Manipulation | ⏳ Completed | [`08-Bit-Manipulation`](./08-Bit-Manipulation) |
-| 09 | Stack | ⏳ Completed | [`09-Stack`](./09-Stack) |
-| 10 | Queue | ⏳ Completed | [`10-Queue`](./10-Queue) |
+| 03 | Arrays | 🔄 In Progress | [`03-Arrays`](./03-Arrays) |
+| 04 | Strings | 🔄 In Progress | [`04-Strings`](./04-Strings) |
+| 05 | Sorting | ✅ Completed | [`05-Sorting`](./05-Sorting) |
+| 06 | Recursion | ⏳ Upcoming | [`06-Recursion`](./06-Recursion) |
+| 07 | Linked List | ⏳ Upcoming | [`07-LinkedList`](./07-LinkedList) |
+| 08 | Bit Manipulation | ⏳ Upcoming | [`08-Bit-Manipulation`](./08-Bit-Manipulation) |
+| 09 | Stack | ⏳ Upcoming | [`09-Stack`](./09-Stack) |
+| 10 | Queue | ⏳ Upcoming | [`10-Queue`](./10-Queue) |
 | 11 | Greedy Algorithm | ⏳ Upcoming | [`11-Greedy`](./11-Greedy) |
 | 12 | Heaps | ⏳ Upcoming | [`12-Heaps`](./12-Heaps) |
 | 13 | Trees | ⏳ Upcoming | [`13-Trees`](./13-Trees) |
@@ -122,7 +122,7 @@ Solutions include:
 </details>
 
 <details>
-<summary><b>⏳ Sorting</b></summary>
+<summary><b>✅ Sorting</b></summary>
 
 - Bubble Sort, Insertion Sort, Selection Sort
 - Merge Sort, Quick Sort, Counting Sort
