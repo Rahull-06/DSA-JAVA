@@ -1,4 +1,3 @@
-package patterns.hashing;
 import java.util.*;
 
 public class Duplicate {

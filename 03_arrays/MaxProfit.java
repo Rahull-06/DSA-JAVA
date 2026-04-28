@@ -6,7 +6,6 @@ Buy at lowest, sell at highest after
 Greedy
 */
 
-package greedy;
 
 public class MaxProfit {
     public int maxProfit(int[] prices) {
