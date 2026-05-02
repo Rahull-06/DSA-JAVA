@@ -1,5 +1,3 @@
-package src.arrays.kadanesAlgorithm;
-
 public class MaxSubarray {
     public int maxSubArray(int[] nums) {
     int max = nums[0], sum = 0;
