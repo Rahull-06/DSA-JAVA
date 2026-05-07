@@ -31,8 +31,8 @@ Every folder contains clean, well-commented solutions written for **future revis
 |---|-------|--------|--------|
 | 01 | Maths | ✅ Completed | [`01-Maths`](./01-Maths) |
 | 02 | Patterns | ✅ Completed | [`02-Patterns`](./02-Patterns) |
-| 03 | Arrays | 🔄 In Progress | [`03-Arrays`](./03-Arrays) |
-| 04 | Strings | 🔄 In Progress | [`04-Strings`](./04-Strings) |
+| 03 | Arrays | ✅ Completed | [`03-Arrays`](./03-Arrays) |
+| 04 | Strings | ✅ Completed | [`04-Strings`](./04-Strings) |
 | 05 | Sorting | ✅ Completed | [`05-Sorting`](./05-Sorting) |
 | 06 | Recursion | ⏳ Upcoming | [`06-Recursion`](./06-Recursion) |
 | 07 | Linked List | ⏳ Upcoming | [`07-LinkedList`](./07-LinkedList) |
@@ -97,7 +97,7 @@ Solutions include:
 </details>
 
 <details>
-<summary><b>⏳ Arrays</b></summary>
+<summary><b>✅ Arrays</b></summary>
 
 - Contains Duplicate, Best Time to Buy & Sell Stock
 - Max Subarray (Kadane's), Two Sum
@@ -106,7 +106,7 @@ Solutions include:
 </details>
 
 <details>
-<summary><b>⏳ Strings</b></summary>
+<summary><b>✅ Strings</b></summary>
 
 - Anagrams, Palindromes, Reverse words
 - Pattern matching, String manipulation
@@ -114,7 +114,7 @@ Solutions include:
 </details>
 
 <details>
-<summary><b>⏳ Searching</b></summary>
+<summary><b>✅ Searching</b></summary>
 
 - Linear Search, Binary Search & variants
 - Search in rotated array, First & last occurrence
