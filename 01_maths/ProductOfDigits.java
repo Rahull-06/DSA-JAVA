@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProductOfNumber {
+public class ProductOfDigits {
     static int productOfDigits(int n) {
         int product = 1;
 
